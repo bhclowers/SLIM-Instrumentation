@@ -5,3 +5,5 @@ SLIM Chamber Example:
 <center><img src="images\SLIM_Chamber_Rotation.gif" width=700 height=500 /></center>
 
 * These research products were developed with the support of the [NIGMS](https://www.nigms.nih.gov/) R01-GM140129
+
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
