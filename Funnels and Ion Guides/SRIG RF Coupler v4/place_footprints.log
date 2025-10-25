@@ -1,0 +1,14 @@
+09-07 08:54:26 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 378:Plugin executed on: 'darwin'
+09-07 08:54:26 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 379:Plugin executed with python version: '3.8.2 (v3.8.2:7b3ab5921f, Feb 24 2020, 17:52:18) \n[Clang 6.0 (clang-600.0.57)]'
+09-07 08:54:26 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 380:KiCad build version: (6.0.1-0)
+09-07 08:54:26 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 381:Plugin version: 1.1.0
+09-07 08:54:26 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 382:Frame repr: None
+09-07 08:54:26 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+09-07 08:54:28 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 559:Reference designator is: C
+09-07 08:54:28 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 560:Reference number is: 15
+09-07 08:54:28 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 592:Sorted and filtered list:
+['C1', 'C2', 'C3', 'C4', 'C5', 'C6', 'C7', 'C8', 'C9', 'C10', 'C11', 'C12', 'C13', 'C14', 'C15', 'C16', 'C17', 'C18', 'C19', 'C20', 'C21', 'C22', 'C23', 'C24', 'C25', 'C26', 'C27', 'C28', 'C29', 'C30', 'C31', 'C32', 'C33', 'C34', 'C35', 'C36', 'C37', 'C38', 'C39', 'C40', 'C41', 'C42', 'C43', 'C44', 'C45', 'C46', 'C47', 'C48', 'C49', 'C50', 'C51', 'C52', 'C53', 'C54']
+09-07 08:55:04 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 628:Footprints to place:
+['C1', 'C3', 'C5', 'C7', 'C9', 'C11', 'C13', 'C15', 'C17', 'C19', 'C21', 'C23', 'C25', 'C27', 'C29', 'C31', 'C33', 'C35', 'C37', 'C39', 'C41', 'C43', 'C45', 'C47', 'C49', 'C51', 'C53']
+09-07 08:55:04 com_github_MitjaNemec_PlaceFootprints.place_footprints 283:Starting placing with linear layout
+09-07 08:55:04 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 666:Placing complete
